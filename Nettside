@@ -1,0 +1,187 @@
+<html>
+ 
+    <!--MeTube Tittel og bakgrunds farge-->
+      <body style="background-color:Grey;">
+      <title>MeTube</title>
+
+  <!--MeTube Logo-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <head>
+      <style>
+      .city {
+      background-color:white;
+      color: white;
+      width: auto;
+      height: 150;
+      }
+      </style>
+      </head>
+      <body>
+      <div class="city">
+        <center>
+        <img src="MeTube.png" alt="MeTube" width="300" height="150"
+        </center>
+
+
+    <!--Venstre Kolonne-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head>
+    <style>
+    .peepee {
+      float: left;
+    background-color:black;
+    color: white;
+    width: 10%;
+    height: 850%;
+    }
+    </style>
+    </head>
+    <body>
+    <div class="Peepee"> 
+      <h3>Do you like to watch videos. Well Great!. Welcome to MeTube. you can choose between three categories. Rick Roulette, Cozy Corner and last but not least Memory Lane.</h3>
+    </body>
+  </div>
+    
+  <h3> Rick Roulette </h3>
+    <div class="image123">
+    <!--Rick-Roll'd-->
+    <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+    </a>
+
+
+      <!--Sel videoene-->
+      <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+      </a>
+        
+      <!--Rick-Roll'd-->
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+          <img src="PlayButton.png" height="100" width="150">
+        </a>
+  
+        <h3> Cozy Corner </h3>
+    <!--Keyboard Typing -->
+    <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      <img src="PlayButton.png" height="100" width="150">
+      
+    </a>
+
+      <!--Bacon Cooking-->
+      <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        
+       
+
+      <!--Keyboard Typing-->
+      <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+      </a>
+
+      <h3> Memory Lane </h3>
+      <!--10 hours minecraft music-->
+      <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+      </a>
+
+      <!--Nyan cat-->
+      <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+      </a>
+
+      <!--10 hours minecraft music-->
+      <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+        <img src="PlayButton.png" height="100" width="150">
+      </a>
+</html>
