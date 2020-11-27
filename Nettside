@@ -32,156 +32,428 @@
     background-color:black;
     color: white;
     width: 10%;
-    height: 850%;
+    height: 950%;
     }
     </style>
     </head>
     <body>
     <div class="Peepee"> 
-      <h3>Do you like to watch videos. Well Great!. Welcome to MeTube. you can choose between three categories. Rick Roulette, Cozy Corner and last but not least Memory Lane.</h3>
+      <h3>Do you like to watch videos. Well Great!. Welcome to MeTube. you can choose between three categories. Rick Roulette, Cozy Corner and last but not least Memory Lane. On MeTube you can enjoy Russian Roulette <mark>WITHOUT</mark> ending somebody's life</h3>
     </body>
   </div>
     
-  <h3> Rick Roulette </h3>
+  <i><h3> Rick Roulette</h3>
     <div class="image123">
-    <!--Rick-Roll'd-->
+    <!--Rick Roulette-->
     <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
       <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-    </a>
-
-
-      <!--Sel videoene-->
+    </a> 
       <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
         <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-      </a>
-        
-      <!--Rick-Roll'd-->
+      </a>  
+      
       <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-          <img src="PlayButton.png" height="100" width="150">
-        </a>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+      
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+      
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+     
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+   
+      
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+    
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+      <img src="PlayButton.png" height="100" width="150">
+    </a> 
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+      
+      <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+      
+      <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+      
+      <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+     
+      <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+   
+      
+      <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+
+     <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+      <img src="PlayButton.png" height="100" width="150">
+    </a> 
+      <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+      
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+      
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+      
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+     
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+      
+     <a href="https://www.youtube.com/watch?v=MZ8Pbm2LuEQ" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+      </a>  
+   
+      
+      <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
+        <img src="PlayButton.png" height="100" width="150">
+     </a>
+
+
+     
+        
+     
   
         <h3> Cozy Corner </h3>
-    <!--Keyboard Typing -->
-    <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      <img src="PlayButton.png" height="100" width="150">
-      
-    </a>
-
-      <!--Bacon Cooking-->
-      <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        
-       
-
-      <!--Keyboard Typing-->
+    <!--Cozy Corner-->
+    
       <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
         <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-      </a>
-
-      <h3> Memory Lane </h3>
-      <!--10 hours minecraft music-->
-      <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-      </a>
-
-      <!--Nyan cat-->
-      <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-      </a>
-
-      <!--10 hours minecraft music-->
-      <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
+      </a> 
+        <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
         
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+        
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+        
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+       
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+     
+        
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+      
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
         <img src="PlayButton.png" height="100" width="150">
+      </a> 
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+        
+        <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+        
+        <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+        
+        <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+       
+        <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+     
+        
+        <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+  
+       <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
         <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-        <img src="PlayButton.png" height="100" width="150">
-      </a>
+      </a> 
+        <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+        
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+        
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+        
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+       
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+        
+       <a href="https://youtu.be/bYBdpfbz0-I" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a>  
+     
+        
+        <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+       </a>
+    
+      
+       <h3> Memory Lane </h3>
+      <!--Memory Lane-->
+        
+        <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a> 
+          <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+         
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+       
+          
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+        
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+          <img src="PlayButton.png" height="100" width="150">
+        </a> 
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+         
+          <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+       
+          
+          <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+    
+         <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a> 
+
+          <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+          
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+         
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+          
+         <a href="https://www.youtube.com/watch?v=SkgTxQm9DWM" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+          </a>  
+       
+          
+          <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
+            <img src="PlayButton.png" height="100" width="150">
+         </a>
+    </i>
+
+     
 </html>
