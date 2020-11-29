@@ -19,7 +19,9 @@
       <body>
       <div class="city">
         <center>
-        <img src="MeTube.png" alt="MeTube" width="300" height="150"
+          <a href="https://www.youtube.com" target=blank_>
+            <img src="MeTube.png" height="150" width="300">
+          </a> 
         </center>
 
 
@@ -38,11 +40,12 @@
     </head>
     <body>
     <div class="Peepee"> 
-      <h3>Do you like to watch videos. Well Great!. Welcome to MeTube. you can choose between three categories. Rick Roulette, Cozy Corner and last but not least Memory Lane. On MeTube you can enjoy Russian Roulette <mark>WITHOUT</mark> ending somebody's life</h3>
+      <center><h3>Tutorial</h3></center> <h3> Here's how you "play" MeTube. Firstly if you look at the site you can see three catergories mentioned in the other paragraph. To play this russian roullete type game, all you do is press one of the icons and a video pops up. if you want to choose another video, then just exit the window with the video and go back to MeTube and choose another icon. Have Fun</h3>
+      <center> <h3>Info</h3></center><h3>Do you like to watch videos. Well Great!. Welcome to MeTube. you can choose between three categories. Rick Roulette, Cozy Corner and last but not least Memory Lane. On MeTube you can enjoy Russian Roulette <mark>WITHOUT</mark> ending somebody's life. We have something for everybody. if you are a boomer then you will fit nicely into the Rick Roulette category, if you are a millenial have fun in the Memory Lane category and if you just want to chill and relax then listen to some bacon sizziling or some keyboard ASMR in Cozy Corner.</h3>
     </body>
   </div>
     
-  <i><h3> Rick Roulette</h3>
+  <i><center><h3>Rick Roulette</h3></center>
     <div class="image123">
     <!--Rick Roulette-->
     <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target=blank_>
@@ -182,7 +185,7 @@
         
      
   
-        <h3> Cozy Corner </h3>
+        <center><h3> Cozy Corner </h3></center>
     <!--Cozy Corner-->
     
       <a href="https://youtu.be/IYqyhhAVzrc?t=345" target=blank_>
@@ -318,9 +321,8 @@
        </a>
     
       
-       <h3> Memory Lane </h3>
-      <!--Memory Lane-->
-        
+       <center> <h3> Memory Lane </h3> </center>
+       
         <a href="https://www.youtube.com/watch?v=YViqMZ4SyWc" target=blank_>
           <img src="PlayButton.png" height="100" width="150">
         </a> 
